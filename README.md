@@ -1,10 +1,5 @@
 # Multi Device Whatsapp Bot in TS :robot:
 
-[Click to show Webpage](https://shubhamrawat5.github.io/whatsapp-bot-ts/)
-
-<!-- ![logo](https://i.ibb.co/Fmk9bhG/bot.jpg) -->
-<img src="https://i.ibb.co/Fmk9bhG/bot.jpg" width="300" height="300">
-
 ## Setup:- :rocket:
 
 1. Download and install [Git](https://git-scm.com/downloads)
